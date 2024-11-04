@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemethyd
-- 👀 I’m interested in .Net Core, node.js, F#
-- 🌱 I’m currently learning nodeJs
+- 👀 I’m interested in jArchi node.js, Python
+- 🌱 I’m currently learning jArchi 
 - 📫 How to reach me nemethy@moderato.hu
 
 <!---
